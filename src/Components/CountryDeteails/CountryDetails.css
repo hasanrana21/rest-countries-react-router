@@ -1,0 +1,18 @@
+.country-details{
+margin: 30px auto;
+padding: 20px;
+border: 2px solid rgb(241, 159, 26);
+width: 50%;
+border-radius: 25px;
+background-image: linear-gradient(to bottom, #3700b3, #6200ee);
+color: white;
+}
+.country-details:hover{
+    background-image: linear-gradient(to bottom, #6200ee, #3700b3);
+    color:rgb(255, 238, 0);
+}
+.country-details img{
+    width: 350px;
+    height: 250px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,19 @@
+.more-info{
+    border: 2px solid gray;
+    width: 400px;
+    margin: 15px auto;
+    border-radius:15px;
+    background-color: gray;
+    color: white;
+    padding: 25px;
+}
+.more-info li{
+    font-size: 17px;
+}
+.more-info p, span{
+    font-size: 23px;
+    font-weight: 600;
+    color: yellow;
+}
+.more-info h5{
+}
